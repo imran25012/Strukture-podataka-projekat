@@ -1,0 +1,2 @@
+# Projekat koristi samo standardne Python biblioteke.
+# Nije potrebno instalirati dodatne pakete.
