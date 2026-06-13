@@ -8,10 +8,10 @@ Cilj sistema je omogućavanje transparentnog i sigurnog praćenja ribe kroz sve 
 
 U projektu su implementirane sljedeće strukture podataka i algoritmi:
 
-* SHA-256 hash funkcija
-* Hash lista (Hash Chain)
-* Merkle stablo (Merkle Tree)
-* Blockchain
+- SHA-256 hash funkcija
+- Hash lista (Hash Chain)
+- Merkle stablo (Merkle Tree)
+- Blockchain
 
 ## Problem koji se rješava
 
@@ -19,11 +19,11 @@ U savremenim lancima snabdijevanja često postoji potreba za provjerom porijekla
 
 Kod proizvoda kao što je riba posebno je važno znati:
 
-* gdje je ulovljena,
-* kada je transportovana,
-* gdje je skladištena,
-* kada je isporučena prodavnici,
-* kada je prodata kupcu.
+- gdje je ulovljena,
+- kada je transportovana,
+- gdje je skladištena,
+- kada je isporučena prodavnici,
+- kada je prodata kupcu.
 
 Blockchain omogućava da se svi ovi podaci čuvaju na način koji otežava njihovu naknadnu izmjenu.
 
@@ -43,13 +43,13 @@ Blockchain povezuje više blokova u jedinstven lanac. Svaki blok sadrži hash pr
 
 ## Funkcionalnosti sistema
 
-* Evidentiranje događaja u lancu snabdijevanja ribom
-* Generisanje SHA-256 hash vrijednosti
-* Kreiranje hash lanca
-* Kreiranje Merkle stabla
-* Formiranje blokova
-* Kreiranje blockchain lanca
-* Provjera integriteta blockchain-a
+- Evidentiranje događaja u lancu snabdijevanja ribom
+- Generisanje SHA-256 hash vrijednosti
+- Kreiranje hash lanca
+- Kreiranje Merkle stabla
+- Formiranje blokova
+- Kreiranje blockchain lanca
+- Provjera integriteta blockchain-a
 
 ## Struktura projekta
 
