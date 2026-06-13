@@ -71,7 +71,7 @@ fish-supply-chain-blockchain/
 1. Ulov ribe
 2. Transport ribe
 3. Skladištenje u hladnjači
-4. Distribucija prodavnici
+4. Distribucija prodavnicii
 5. Prodaja krajnjem kupcu
 
 ## Pokretanje projekta
